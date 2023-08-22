@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "description": "MiniJuego de sumar clicks. Meta final: 10.000 clicks. Doble click en CLEAR para volver a empezar.",
+    "name": "CLICKING 4 LIFE",
+    "icons": {
+        "128": "favicon.png"
+    },
+    "action":{
+        "default_popup": "index.html",
+        "default_icon": "favicon.png"
+    }
+}
